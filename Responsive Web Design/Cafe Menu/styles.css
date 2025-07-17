@@ -28,3 +28,12 @@ h1, h2 {
     text-align: right;
     width: 25%;
 }
+.established {
+    font-style: italic;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
