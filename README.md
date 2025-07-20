@@ -28,5 +28,5 @@ Membantu pemula memahami dasar-dasar pengembangan frontend dengan latihan langsu
 
 3. Buka file HTML di browser untuk melihat hasilnya.
 
-💡 Catatan
+## 💡 Catatan
 Repositori ini masih dalam tahap pengembangan. Konten akan terus diperbarui dan ditambah seiring waktu.
