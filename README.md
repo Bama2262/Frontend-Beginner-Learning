@@ -1,32 +1,32 @@
 # Frontend Beginner Learning
 
-Repositori ini berisi kumpulan latihan dan proyek sederhana untuk pemula yang ingin belajar dasar-dasar pengembangan web frontend.
+This repository contains a collection of simple exercises and projects for beginners who want to learn the basics of frontend web development.
 
-## 📚 Konten
+## 📚 Content
 
-Materi dan latihan mencakup:
+Materials and exercises include:
 
-- HTML dasar
-- CSS dasar dan layout
-- Penggunaan Flexbox dan Grid
-- JavaScript dasar
+- Basic HTML
+- Basic CSS and layout
+- Use of Flexbox and Grid
+- Basic JavaScript
 - DOM Manipulation
-- Mini project (seperti to-do list, kalkulator, dsb)
+- Mini project
 
-## 🎯 Tujuan
+## 🎯 Objective
 
-Membantu pemula memahami dasar-dasar pengembangan frontend dengan latihan langsung melalui proyek-proyek kecil dan kode yang mudah dipahami.
+Helping beginners understand the basics of frontend development with hands-on exercises through small projects and easy-to-understand code.
 
-## 🛠️ Cara Menggunakan
+## 🛠️ How to use
 
-1. Clone repositori ini:
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/Bama2262/Frontend-Beginner-Learning.git
 
-2. Buka folder proyek di code editor (seperti VS Code).
+2. Open the project folder in a code editor (such as VS Code).
 
-3. Buka file HTML di browser untuk melihat hasilnya.
+3. Open the HTML file in a browser to see the result.
 
-## 💡 Catatan
-Repositori ini masih dalam tahap pengembangan. Konten akan terus diperbarui dan ditambah seiring waktu.
+## 💡 Notes
+This repository is still under development. Content will continue to be updated and expanded over time.
