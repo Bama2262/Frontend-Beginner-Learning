@@ -1,4 +1,4 @@
-# Frontend Beginner Learning
+# 🎨 Frontend Beginner Learning
 
 This repository contains a collection of simple exercises and projects for beginners who want to learn the basics of frontend web development.
 
