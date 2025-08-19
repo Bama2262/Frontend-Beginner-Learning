@@ -22,7 +22,7 @@ Helping beginners understand the basics of frontend development with hands-on ex
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Bama2262/Frontend-Beginner-Learning.git
+   git clone https://github.com/Rukadevata/Frontend-Beginner-Learning.git
 
 2. Open the project folder in a code editor (such as VS Code).
 
